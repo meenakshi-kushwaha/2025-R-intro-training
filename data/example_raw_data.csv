@@ -1,0 +1,253 @@
+,ID District,id_child,age in months,bll_c_num,Child GENDER
+1,Purnea,C612,53,3.7,male
+2,Gaya,C472,37,3.8,male
+3,Bhagalpur,C667,48,10.3,female
+4,Patna,C143,29,7.1,female
+5,Vaishali,C259,35,6.2,male
+6,Purnea,C615,25,3.7,male
+7,Patna,C100,60,6.1,female
+8,Muzaffarpur,C300,49,7.9,male
+9,West champaran,C350,12,5.8,male
+10,Bhagalpur,C687,36,4.9,male
+11,Nawada,C535,57,7.8,female
+12,Patna,C064,36,15.3,male
+13,Bhagalpur,C696,39,8.8,male
+14,Bhagalpur,C654,40,6,male
+15,Nawada,C502,60,10.4,female
+16,Purnea,C614,58,4.5,female
+17,Patna,C056,53,15.1,male
+18,Gaya,C452,44,8.7,male
+19,Purnea,C627,25,5.8,male
+20,Patna,C040,25,8,male
+21,Vaishali,C254,58,8.1,male
+22,Gaya,C481,48,14,male
+23,Patna,C091,28,11.5,male
+24,Patna,C194,51,4.3,female
+25,Bhagalpur,C647,18,8.8,male
+26,Purnea,C599,37,6.2,male
+27,Gaya,C455,42,10.2,male
+28,Vaishali,C216,57,5.5,male
+29,Purnea,C617,60,4.8,female
+30,Gaya,C462,30,10.1,male
+31,Gaya,C428,23,10.7,female
+32,Vaishali,C237,25,12.4,female
+33,Patna,C034,24,4.7,male
+34,Purnea,C591,60,9.4,male
+35,Gaya,C453,54,12.4,male
+36,Muzaffarpur,C275,57,9,male
+37,Patna,C135,59,8.5,female
+38,Purnea,C590,35,9.9,female
+39,Nawada,C540,46,6.7,male
+40,Muzaffarpur,C327,60,7.1,female
+41,Muzaffarpur,C293,37,7.9,male
+42,Vaishali,C204,36,4.7,male
+43,West champaran,C408,48,6.7,female
+44,Patna,C134,24,11.2,male
+45,Bhagalpur,C700,55,11.1,male
+46,Muzaffarpur,C283,30,5.8,male
+47,Patna,C101,60,11.5,female
+48,Muzaffarpur,C297,42,4.6,female
+49,Muzaffarpur,C307,38,7,female
+50,West champaran,C354,18,7.2,male
+51,Patna,C184,60,15.4,male
+52,Patna,C132,40,19.1,male
+53,Nawada,C547,43,4.6,female
+54,West champaran,C374,42,7.4,male
+55,Patna,C029,53,23.9,male
+56,West champaran,C378,36,7,male
+57,Patna,C028,36,21.5,female
+58,Vaishali,C213,60,7.2,male
+59,West champaran,C372,35,8.8,male
+60,Nawada,C544,27,5.6,male
+61,Vaishali,C215,17,5.4,male
+62,Patna,C092,48,9,male
+63,Patna,C068,59,8.5,female
+64,Patna,C071,42,5.9,female
+65,Muzaffarpur,C328,59,8.3,male
+66,Muzaffarpur,C325,24,8,female
+67,Gaya,C460,60,32.5,male
+68,Gaya,C429,60,15.8,male
+69,Nawada,C560,16,8.1,female
+70,West champaran,C370,17,7.3,male
+71,Patna,C152,48,7.6,male
+72,Vaishali,C247,60,15.5,male
+73,Bhagalpur,C695,60,6.3,female
+74,Patna,C107,26,9.3,male
+75,Patna,C141,59,10.5,male
+76,Vaishali,C243,57,7.5,male
+77,Vaishali,C262,18,4.2,male
+78,Muzaffarpur,C299,25,6.4,male
+79,Vaishali,C272,44,7.9,female
+80,Patna,C195,56,10.8,female
+81,Patna,C031,42,7.6,female
+82,Vaishali,C238,23,6.4,male
+83,Purnea,C629,60,5.3,female
+84,Bhagalpur,C701,42,4,male
+85,Patna,C065,53,11.2,male
+86,Vaishali,C222,21,8.3,male
+87,West champaran,C396,60,5.7,female
+88,Patna,C002,53,7.9,female
+89,Nawada,C543,37,6.5,female
+90,Nawada,C552,48,9.9,male
+91,Patna,C018,55,11.6,male
+92,Nawada,C506,54,7.5,female
+93,West champaran,C380,48,6.7,female
+94,Patna,C127,60,7.3,male
+95,West champaran,C357,60,6.2,female
+96,Nawada,C531,51,12.6,male
+97,West champaran,C360,53,6.7,female
+98,Gaya,C487,47,7,male
+99,Nawada,C492,60,7.7,female
+100,Purnea,C564,43,9.1,male
+101,Purnea,C613,59,3.7,male
+102,Patna,C077,26,18.2,male
+103,Muzaffarpur,C342,36,6.8,male
+104,Nawada,C559,18,7.9,female
+105,Purnea,C578,18,8,male
+106,Patna,C115,37,9.4,male
+107,Vaishali,C208,32,6.8,male
+108,Bhagalpur,C666,60,9.8,male
+109,Purnea,C565,37,7.7,female
+110,Patna,C020,35,11,male
+111,Patna,C161,36,7.5,male
+112,Purnea,C563,60,8.2,male
+113,Patna,C076,36,8.2,female
+114,Patna,C010,42,6.1,female
+115,West champaran,C385,22,7.5,male
+116,Patna,C096,60,11.1,male
+117,Patna,C108,60,13,female
+118,Bhagalpur,C704,48,8.4,male
+119,West champaran,C373,42,8.1,male
+120,Vaishali,C261,48,4.5,male
+121,Muzaffarpur,C284,15,8.9,male
+122,Vaishali,C202,30,5.1,male
+123,West champaran,C359,56,6.3,female
+124,Patna,C105,15,14.8,male
+125,Muzaffarpur,C324,24,7.2,male
+126,Gaya,C456,36,9,male
+127,West champaran,C358,36,7.7,female
+128,Nawada,C497,60,9.1,male
+129,Bhagalpur,C645,53,7.8,female
+130,Purnea,C566,60,7.2,male
+131,Gaya,C454,38,4.9,male
+132,Patna,C154,41,6.1,male
+133,Bhagalpur,C673,18,7.3,female
+134,Purnea,C577,33,9.1,female
+135,Patna,C083,41,9,female
+136,Vaishali,C235,14,4.7,male
+137,Muzaffarpur,C273,17,9.1,female
+138,Purnea,C593,36,8.3,male
+139,Patna,C121,15,8.5,male
+140,Bhagalpur,C684,60,5.3,female
+141,Patna,C172,49,5.9,female
+142,Muzaffarpur,C310,25,9.2,male
+143,Patna,C174,36,6.8,male
+144,Purnea,C620,50,4.9,female
+145,Vaishali,C248,48,6.8,female
+146,Bhagalpur,C670,18,6.6,female
+147,Nawada,C525,17,9.2,male
+148,West champaran,C389,36,7.4,male
+149,Muzaffarpur,C343,57,7.1,male
+150,West champaran,C366,42,6.5,female
+151,Gaya,C433,15,10.9,male
+152,Bhagalpur,C646,18,6.4,male
+153,Vaishali,C269,36,8.9,female
+154,Patna,C118,36,12.9,male
+155,Vaishali,C240,45,5.8,male
+156,Patna,C004,59,5.3,male
+157,Bhagalpur,C657,42,7.8,male
+158,West champaran,C399,54,4.3,female
+159,Patna,C051,53,7.2,male
+160,Muzaffarpur,C274,37,8.7,female
+161,Nawada,C534,60,7.6,male
+162,Patna,C155,36,9.4,female
+163,Bhagalpur,C697,14,4.9,male
+164,Muzaffarpur,C321,30,7.3,male
+165,Gaya,C417,60,7,female
+166,Gaya,C486,37,10,male
+167,Patna,C061,60,14.3,female
+168,Purnea,C574,49,6.6,female
+169,Bhagalpur,C633,60,7.6,female
+170,Bhagalpur,C672,35,7.7,female
+171,West champaran,C404,26,6.1,male
+172,Patna,C129,24,13.6,female
+173,Patna,C160,18,6.4,female
+174,Patna,C009,48,6.8,female
+175,Bhagalpur,C651,60,8.1,male
+176,Gaya,C488,38,9.2,female
+177,West champaran,C356,48,7.8,female
+178,Patna,C128,48,10.7,male
+179,Muzaffarpur,C336,17,6.8,female
+180,Patna,C103,60,14.8,male
+181,West champaran,C363,13,6.8,male
+182,Purnea,C619,42,4.2,female
+183,Gaya,C420,37,11.4,male
+184,Vaishali,C227,25,3.8,female
+185,Patna,C111,40,12.3,male
+186,Patna,C153,19,8.1,male
+187,Purnea,C608,18,5.2,female
+188,Patna,C097,17,7.9,male
+189,Patna,C183,60,12.1,female
+190,Bhagalpur,C662,30,5.6,female
+191,Patna,C030,54,17.5,male
+192,Purnea,C621,36,6.2,male
+193,Purnea,C587,60,8,female
+194,Patna,C094,60,16.4,male
+195,Muzaffarpur,C289,60,8.4,male
+196,Patna,C067,18,7.1,female
+197,Patna,C060,56,10,female
+198,Bhagalpur,C639,39,7,male
+199,Purnea,C589,48,7.2,female
+200,Vaishali,C205,14,6.4,female
+201,Bhagalpur,C677,45,6.9,female
+202,Patna,C084,49,6,female
+203,Muzaffarpur,C276,56,6.1,male
+204,Patna,C049,42,14.5,male
+205,Nawada,C524,18,7,male
+206,Bhagalpur,C653,28,10.1,female
+207,Nawada,C508,57,10.4,female
+208,Nawada,C512,60,8.3,male
+209,Nawada,C530,42,10.3,female
+210,Bhagalpur,C702,36,8.7,male
+211,Vaishali,C231,60,6.3,female
+212,Bhagalpur,C655,25,7.3,female
+213,West champaran,C349,26,7.2,male
+214,Muzaffarpur,C338,29,5.7,female
+215,Muzaffarpur,C281,18,7.1,female
+216,Nawada,C493,56,6.8,female
+217,Purnea,C579,13,6.9,female
+218,Gaya,C480,38,7,male
+219,Vaishali,C234,35,5.1,female
+220,Purnea,C603,49,5.4,male
+221,Gaya,C485,60,6.3,male
+222,Patna,C082,57,8.3,female
+223,Gaya,C463,54,23.4,male
+224,Vaishali,C250,24,6.8,male
+225,West champaran,C377,26,7.2,female
+226,Nawada,C499,60,8.2,female
+227,Muzaffarpur,C309,50,13.6,male
+228,Patna,C011,52,16.6,male
+229,Patna,C007,14,5,male
+230,Nawada,C491,49,10.5,male
+231,West champaran,C379,42,6.2,male
+232,Purnea,C605,30,5.8,female
+233,Bhagalpur,C640,43,6.8,female
+234,Bhagalpur,C636,48,7.8,female
+235,Patna,C149,24,11.6,male
+236,Patna,C015,29,7.8,male
+237,Patna,C008,53,6.1,female
+238,West champaran,C397,25,13.4,male
+239,Nawada,C505,34,9.7,female
+240,Purnea,C618,51,5.2,male
+241,West champaran,C351,23,5.9,male
+242,Patna,C078,16,8.9,male
+243,Gaya,C479,60,6.8,male
+244,West champaran,C391,60,5.3,male
+245,Vaishali,C263,30,4.6,male
+246,Vaishali,C209,40,5.8,female
+247,Gaya,C465,42,6,female
+248,Muzaffarpur,C312,37,6.5,female
+249,West champaran,C414,60,13.1,female
+250,Bhagalpur,C675,30,6.7,female
+251,Bhagalpur,C640,42,7.2,female
+252,West champaran,C379,42,6.2,male
